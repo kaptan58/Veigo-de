@@ -1,7 +1,3 @@
-# Basic Admin Panel
+# VEIGO Admin Panel
 
-This is a static demo of a basic admin login screen using HTML, TailwindCSS, and JS.
-
-## How to run
-
-Just open `index.html` in a browser.
+Bu panel doğrudan açılır, şifresizdir. `npm install && npm run dev` ile çalışır.
